@@ -1,0 +1,185 @@
+@font-face {
+    font-family: "Panthera";
+    src: url(../font/PantheraRegular-MVZ9J.ttf);
+}
+@font-face {
+    font-family:"cantarell";
+    src: url(../font/Cantarell-Regular.ttf);
+}
+@font-face {
+    font-family:"wakanda" ;
+    src: url(../font/WakandaForever-Regular.ttf);
+}
+@font-face {
+    font-family: "BEYNO";
+    src: url(../font/BEYNO.otf);
+}
+:root{
+    --color-white:#ffffff;
+    --color-grey:#f2cef2;
+    --color-pink:#df99f2;
+    --color-blue:#3d2da6;
+    --color-darkblue:#07338c;
+    --color-black:#021740;
+}
+body{
+background-image: url("../Illustrations_Logo/All_pages/arrière_plan.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.TOP{
+    margin-top: 1cm;
+    margin-left: 2cm;
+}
+.Accueil{
+    color: #ffffff;
+    float: right;
+    margin-right:1cm;
+    font-family: "BEYNO";
+}
+.au{
+    float:bottom;
+    margin-left: 2cm;
+ }
+ .rose{
+    margin-left:10%;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: "cantarell";
+
+ }
+ h1{
+    color: grey;
+    font-size: 68px;
+    font-family: "Panthera";
+ }
+ H2{
+    color: gray;
+    font-size: 32px;
+    font-family: "BEYNO";
+ }
+ .image_container{
+    margin-left: 5%;
+    box-align: right;
+    float: right;
+    color: #ffffff;
+}
+.go{
+    background-color: #021740;
+    background-size:center;
+    }
+span{
+    float: right;
+    text-align: center;
+    color: #ffffff;
+}
+blockquote{
+    font-size: 14px;
+    font-family: "cantarell";
+    color: #ffffff;
+    margin-left: 1%;
+}
+p{
+    color: #ffffff;
+    font-size: 16px;
+    font-family: "cantarell";
+}
+pre{
+    text-align:justify;
+    color: #07338c;
+    font-size: 16px;
+    font-family: "cantarell";
+}
+h5{
+    color: #ffffff;
+    font-family: "cantarell";
+    font-style: normal;
+} 
+ul{
+    color: #ffffff;
+    text-align: horizontal;
+    float:right;
+}
+aside{
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-size: 80%;
+    padding-bottom: 100%;
+    position: relative;       
+    margin-top: 5%;    
+    width: 100%;
+    margin-right: 30%;
+}
+.div2{
+    width: 200;
+    align-items: center;
+    display: flex;
+    width: 200px;
+    height: 300px;
+    z-index:1;
+    position: relative;
+}
+.div1{
+    padding-left:2%;
+    position:absolute;      
+    padding-top: 50%;     
+    color:#07338c;
+}
+footer{
+    background-image: url(../Illustrations_Logo/All_pages/back_footer.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.unie{
+    padding-top: 20%;
+    padding-left: 2%;
+    float: left;
+}
+.olio{
+    padding-top: -20%;
+    padding-left: 50%;
+    color: #ffffff;
+    float: center;
+}
+.soc{
+    margin-left: 10%;
+    color: #ffffff;
+    float: rights;
+}
+.icon{
+    padding-bottom: 30%;
+    float: right;
+    color: #ffffff;
+}
+P{
+    color: #ffffff;
+    font-size: 16px;
+    font-family: "cantarell";
+}
+.wine{
+    padding-left: 10%;
+}
+h6{
+    color: #ffffff;
+}
+strong{
+    color: black;
+    font-size: 18px;
+    font-family: "cantarell";}
+form{
+    margin-right: 40%;
+    margin-left: 40%;
+    background-color:azure;
+    
+}
+.bEE{
+    background-image: url(../Illustrations_Logo/Accueil/Pantherhome7.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-bottom: 60%;
+}
+input{
+    padding-left: 20%;
+}
+    
+

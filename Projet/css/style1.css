@@ -1,0 +1,154 @@
+@font-face {
+    font-family: "Panthera";
+    src: url(../font/PantheraRegular-MVZ9J.ttf);
+}
+@font-face {
+    font-family:"cantarell";
+    src: url(../font/Cantarell-Regular.ttf);
+}
+@font-face {
+    font-family:"wakanda forever" ;
+    src: url(../font/WakandaForever-Regular.ttf);
+}
+@font-face {
+    font-family: "BEYNO";
+    src: url(../font/BEYNO.otf);
+}
+:root{
+    --color-white:#ffffff;
+    --color-grey:#f2cef2;
+    --color-pink:#df99f2;
+    --color-blue:#3d2da6;
+    --color-darkblue:#07338c;
+    --color-black:#021740;
+}
+body{
+background-image: url("../Illustrations_Logo/All_pages/arrière_plan.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.Origines{
+    color: #ffffff;
+}
+main{
+    margin-bottom: 0%;
+}
+.TOP{
+    margin-top: 1cm;
+    margin-left: 2cm;
+}
+.Accueil{
+    color: #ffffff;
+    float: right;
+    margin-right:1cm;
+    font-family: "BEYNO";
+}
+p{
+    color: #ffffff;
+    font-size: 16px;
+    font-family:"Cantarell";
+}
+h1{
+    color: #8a858a;
+    font-size: 68px;
+    font-family:"BEYNO";
+    font-style:normal;
+}
+h2{
+    color: #8a858a;
+    font-size: 43px;
+    font-family:"Wakanda Forever";
+}
+h3{
+ color: #ffffff;
+ font-size: 32px;
+ font-family: "BEYNO";   
+}
+video{
+    background-color: #07338c;
+}
+.double{
+    padding-left: 10%;
+}
+.MIE{
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.man{
+margin-left: 10%;
+}
+nav{
+    float: right;
+}
+footer{
+    background-image: url(../Illustrations_Logo/All_pages/back_footer.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.unie{
+    padding-top: 20%;
+    padding-left: 2%;
+    float: left;
+}
+.olio{
+    padding-top: -20%;
+    padding-left: 50%;
+    color: #ffffff;
+    float: center;
+}
+.soc{
+    margin-left: 10%;
+    color: #ffffff;
+    float: rights;
+}
+.icon{
+    padding-bottom: 30%;
+    float: right;
+    color: #ffffff;
+}
+ul{
+    padding-bottom: 50%;
+    color: #ffffff;
+    text-align: horizontal;
+    float:right;
+}
+h5{
+    color: #ffffff;
+    font-family: "cantarell";
+    font-style: normal;
+}
+footer{
+    padding-top: 30%; 
+    margin-top: 50%;
+    background-image: url(../Illustrations_Logo/All_pages/back_footer.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.unie{
+    padding-top: 20%;
+    padding-left: 2%;
+    float: left;
+}
+.olio{
+    padding-top: -20%;
+    padding-left: 50%;
+    color: #ffffff;
+    float: center;
+}
+.soc{
+    margin-left: 10%;
+    color: #ffffff;
+    float: rights;
+}
+.icon{
+    padding-bottom: 30%;
+    float: right;
+    color: #ffffff;
+}
+ul{
+    color: #ffffff;
+    text-align: horizontal;
+    float:right;
+}
+
